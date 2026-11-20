@@ -1,47 +1,4 @@
 {
-  "01": [
-    "projet-01-01.webp"
-  ],
-  "02": [
-    "projet-02-01.webp",
-    "projet-02-02.webp",
-    "projet-02-03.webp"
-  ],
-  "03": [
-    "projet-03-01.webp",
-    "projet-03-02.webp",
-    "projet-03-03.webp",
-    "projet-03-04.webp",
-    "projet-03-05.webp"
-  ],
-  "04": [
-    "projet-04-01.webp",
-    "projet-04-02.webp"
-  ],
-  "05": [
-    "projet-05-01.webp",
-    "projet-05-02.webp",
-    "projet-05-03.webp"
-  ],
-  "06": [
-    "projet-06-01.webp",
-    "projet-06-02.webp",
-    "projet-06-03.webp"
-  ],
-  "07": [
-    "projet-07-01.webp",
-    "projet-07-02.webp",
-    "projet-07-03.webp"
-  ],
-  "08": [
-    "projet-08-01.webp",
-    "projet-08-02.webp",
-    "projet-08-03.webp"
-  ],
-  "09": [
-    "projet-09-01.webp",
-    "projet-09-02.webp"
-  ],
   "10": [
     "projet-10-01.webp",
     "projet-10-02.webp"
@@ -99,7 +56,6 @@
   "23": [
     "projet-23-01.webp",
     "projet-23-02.webp"
- 
   ],
   "24": [
     "piscine-gombe-01.webp",
@@ -121,5 +77,68 @@
     "piscine-mont-fleury-13.webp",
     "piscine-mont-fleury-14.webp",
     "piscine-mont-fleury-15.webp"
+  ],
+  "26": [
+    "maison-mangala-01.webp",
+    "maison-mangala-02.webp",
+    "maison-mangala-03.webp",
+    "maison-mangala-04.webp",
+    "maison-mangala-05.webp",
+    "maison-mangala-06.webp",
+    "maison-mangala-07.webp",
+    "maison-mangala-08.webp",
+    "maison-mangala-09.webp",
+    "maison-mangala-10.webp",
+    "maison-mangala-11.webp",
+    "maison-mangala-12.webp",
+    "maison-mangala-13.webp",
+    "maison-mangala-14.webp",
+    "maison-mangala-15.webp",
+    "maison-mangala-16.webp",
+    "maison-mangala-17.webp",
+    "maison-mangala-18.webp"
+  ],
+  "01": [
+    "projet-01-01.webp"
+  ],
+  "02": [
+    "projet-02-01.webp",
+    "projet-02-02.webp",
+    "projet-02-03.webp"
+  ],
+  "03": [
+    "projet-03-01.webp",
+    "projet-03-02.webp",
+    "projet-03-03.webp",
+    "projet-03-04.webp",
+    "projet-03-05.webp"
+  ],
+  "04": [
+    "projet-04-01.webp",
+    "projet-04-02.webp"
+  ],
+  "05": [
+    "projet-05-01.webp",
+    "projet-05-02.webp",
+    "projet-05-03.webp"
+  ],
+  "06": [
+    "projet-06-01.webp",
+    "projet-06-02.webp",
+    "projet-06-03.webp"
+  ],
+  "07": [
+    "projet-07-01.webp",
+    "projet-07-02.webp",
+    "projet-07-03.webp"
+  ],
+  "08": [
+    "projet-08-01.webp",
+    "projet-08-02.webp",
+    "projet-08-03.webp"
+  ],
+  "09": [
+    "projet-09-01.webp",
+    "projet-09-02.webp"
   ]
 }
